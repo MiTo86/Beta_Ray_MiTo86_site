@@ -1,5 +1,5 @@
 body{
-      background-color: #b0e0e6;
+    background-color: #b0e0e6;
 }
 
 hr{
@@ -17,4 +17,14 @@ h1{
 h3, th{
   color: #ebaf2b;
   text-shadow: 1px 1px black;
+}
+
+a{
+  text-decoration: none;
+  color: #ebaf2b;
+  text-shadow: 1px 1px black;
+}
+
+a:hover {
+  font-style: italic;
 }
